@@ -1,12 +1,18 @@
 ### Olá! Eu sou o Wagner Junior 👨🏾‍💻
-
-<img align="right" src="https://media4.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif?cid=6c09b952p5hgnxeb3dx8105kt74wx680hup7a2wppoftyx2x&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="300" height="205" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" src="https://media4.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif?cid=6c09b952p5hgnxeb3dx8105kt74wx680hup7a2wppoftyx2x&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="250" height="123" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-junior-874482173/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521979147295)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagnerjrcampos@gmail.com)
+<ul dir="auto">
+<li>🗺️ Sou do Rio de Janeiro, Brasil</li>
+<li>🥊 Gosto de Boxe</li>
+<li>🎮 Gosto de jogos</li>
+<li>📜 3º Semestre em Análise e Desenvolvimento de Sistemas</li>
+</ul>
 
 ![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerjrcampos&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ##
 
