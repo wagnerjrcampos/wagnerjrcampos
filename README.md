@@ -8,7 +8,7 @@
 <li>🗺️ Sou do Rio de Janeiro, Brasil</li>
 <li>🥊 Gosto de Boxe</li>
 <li>🎮 Gosto de jogos</li>
-<li>📜 3º Semestre em Análise e Desenvolvimento de Sistemas</li>
+<li>📜 5º Semestre em Análise e Desenvolvimento de Sistemas</li>
 </ul>
 
 ![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerjrcampos&show_icons=true&theme=dark)
