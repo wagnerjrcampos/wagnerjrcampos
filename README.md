@@ -11,9 +11,12 @@
 <li>📜 5º Semestre em Análise e Desenvolvimento de Sistemas</li>
 </ul>
 
-![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerjrcampos&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
+ <div align="left">
+  <a href="https://github.com/manuletsgo">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wagnerjrcampos&show_icons=true&count_private=true&line_height=30&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wagnerjrcampos&layout=compact&theme=dark"/>
+</div>
+      
 ##
 
 <div style="display: inline_block">
