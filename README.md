@@ -10,12 +10,6 @@
 <li>🎮 Gosto de jogos</li>
 <li>📜 6º Semestre em Análise e Desenvolvimento de Sistemas</li>
 </ul>
-
- <div align="left">
-  <a href="https://github.com/manuletsgo">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wagnerjrcampos&show_icons=true&count_private=true&line_height=30&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wagnerjrcampos&layout=compact&theme=dark"/>
-</div>
       
 ##
 
